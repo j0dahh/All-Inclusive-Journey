@@ -21,3 +21,5 @@ The project aims to create inclusive and engaging experiences through colorful v
 
 ## Purpose
 Developed as part of a research project exploring gamification for children with disabilities, aiming to make learning more interactive and inclusive.
+
+[Play the Game](https://j0dah.itch.io/all-inclusive-journey)
